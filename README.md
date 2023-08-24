@@ -8,20 +8,16 @@ Welcome to my Stanford Machine Learning Course repository! This repository conta
 ## Table of Contents
 
 1. [Assignments](#assignments)
-2. [Projects](#projects)
-3. [Notes](#notes)
-4. [Certification](#certification)
-5. [Technologies Used](#technologies-used)
-6. [Contact](#contact)
-7. [Disclaimer](#disclaimer)
+2. [Notes](#notes)
+3. [Certification](#certification)
+4. [Technologies Used](#technologies-used)
+5. [Contact](#contact)
+6. [Disclaimer](#disclaimer)
 
 ## Assignments
 
 Detailed solutions and code for various machine learning assignments throughout the course. Each assignment explores different algorithms and methodologies in machine learning.
 
-## Projects
-
-Showcase of hands-on projects implementing techniques like regression, classification, clustering, and more. Each project focuses on real-world applications and problem-solving.
 
 ## Notes
 
@@ -35,15 +31,12 @@ Proof of completion and certification for this rigorous and enriching course. De
 
 ## Technologies Used
 
-- Python
-- NumPy
-- pandas
-- scikit-learn
-- TensorFlow
+- Octave
+- MATHLAB
 
 ## Contact
 
-Feel free to reach out with any questions, feedback, or collaboration inquiries. Connect with me on [LinkedIn](your_linkedin_profile_link) or send me an [email](mailto:your_email_address).
+Feel free to reach out with any questions, feedback, or collaboration inquiries. Connect with me on [LinkedIn](https://www.linkedin.com/in/dilrajsandhu/).
 
 ## Disclaimer
 
