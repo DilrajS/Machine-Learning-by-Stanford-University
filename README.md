@@ -27,7 +27,7 @@ In-depth notes and summaries of key concepts, including Supervised Learning, Uns
 
 Proof of completion and certification for this rigorous and enriching course. Demonstrates mastery of the subject matter.
 
-[View Certificate](Certification/Stanford Course Certificate - Dilraj Sandhu.pdf)
+[View Certificate](Stanford-ML-Course/Certification/Stanford Course Certificate - Dilraj Sandhu.pdf)
 
 ## Technologies Used
 
