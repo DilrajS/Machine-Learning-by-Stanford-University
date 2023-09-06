@@ -27,7 +27,7 @@ In-depth notes and summaries of key concepts, including Supervised Learning, Uns
 
 Proof of completion and certification for this rigorous and enriching course. Demonstrates mastery of the subject matter.
 
-[View Certificate](link_to_certificate_here)
+[View Certificate](/Certification)
 
 ## Technologies Used
 
