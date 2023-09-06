@@ -25,12 +25,11 @@ In-depth notes and summaries of key concepts, including Supervised Learning, Uns
 
 ## Certification
 
-Proof of completion and certification for this rigorous and enriching course. Demonstrates mastery of the subject matter.
+Evidence of successful completion and deep understanding of this comprehensive Stanford Machine Learning course.
 
 [View Certificate](https://github.com/DilrajS/Stanford-ML-Course/raw/main/Certification/Stanford%20Course%20Certificate%20-%20Dilraj%20Sandhu.pdf)
 
-*Right-click to open link in new tab*
-
+*Tip: Right-click the link above to open the certificate in a new tab.*
 
 ## Technologies Used
 
