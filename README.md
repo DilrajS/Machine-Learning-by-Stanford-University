@@ -29,8 +29,6 @@ Proof of completion and certification for this rigorous and enriching course. De
 
 [View Certificate](https://github.com/DilrajS/Stanford-ML-Course/raw/main/Certification/Stanford%20Course%20Certificate%20-%20Dilraj%20Sandhu.pdf)
 
-<a href="https://github.com/DilrajS/Stanford-ML-Course/raw/main/Certification/Stanford%20Course%20Certificate%20-%20Dilraj%20Sandhu.pdf" target="_blank">View Certificate</a>
-
 
 ## Technologies Used
 
