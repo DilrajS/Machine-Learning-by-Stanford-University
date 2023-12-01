@@ -1,4 +1,4 @@
-# Stanford Machine Learning Course
+# Machine Learning by Stanford-University
 
 Welcome to my Stanford Machine Learning Course repository! This repository contains my personal work, projects, and notes from the online Machine Learning course taught by Professor Andrew Ng at Stanford University.
 
