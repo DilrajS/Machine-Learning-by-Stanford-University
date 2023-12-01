@@ -1,6 +1,7 @@
 # Machine Learning by Stanford University
 
 Welcome to my Stanford ML course repository! This repository contains my personal work, projects, and notes from the online Machine Learning course taught by **Professor Andrew Ng** at **Stanford University**.
+
 [View Certificate](https://github.com/DilrajS/Stanford-ML-Course/raw/main/Certification/Stanford%20Course%20Certificate%20-%20Dilraj%20Sandhu.pdf)
 
 ![Machine Learning Banner](Images/SU_Logo.png)
